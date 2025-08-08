@@ -1,6 +1,6 @@
 # Demo
 
-- [DemoLink](https://iotechtask.netlify.app/)
+- [DemoLink](https://hustlr-task-frontend.netlify.app)
 
 ## Getting Started
 
