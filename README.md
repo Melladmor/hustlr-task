@@ -15,7 +15,7 @@ To set up and run this project, follow these steps:
 2. **Navigate into the Project Directory**
 
    ```sh
-   cd I-O-TECH-TASK
+   cd hustlr-task
    ```
 
 3. **Install Dependencies**
